@@ -1,6 +1,7 @@
-class SumofNumbers{
+class Sumoftwonumbers{
 public static void main(String args[]){
-  int n=10;
-System.out.println("Sum is:"+n*(n+1)/2);
+  int x=10;
+  int y=20;
+System.out.println("Sum is:"+(x+y);
 }
 }
